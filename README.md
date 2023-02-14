@@ -63,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🛠 Built With <a name="built-with">`HTML/CSS` and `Markdown`</a>
 
-### Tech Stack <a name="tech-stack">`HTML`</a>
+### Tech Stack <a name="tech-stack">`HTML/CSS` with `Nodejs`</a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
@@ -72,16 +72,21 @@ After you're finished please remove all the comments and instructions!
   <ul>
     <li><a href="https://www.w3.org/standards/webdesign/htmlcss">HTML-CSS</a></li>
   </ul>
+
+  <ul>
+    <li><a href="https://nodejs.org/">Nodejs</a></li>
+  </ul>
 </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+<!-- > Describe between 1-3 key features of the application. -->
 
 - **[Clean and Simple Static Webpages]**
 - **[Only Raw HTML & CSS]**
+- **[Nodejs for development tools]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
